@@ -5,7 +5,6 @@
 ## Sample Video of WEBISTE  📽️:
 
 
-https://user-images.githubusercontent.com/89398145/209932183-55392472-c8f1-4af4-bfef-aad59d67ba5a.mp4
 
 
 
