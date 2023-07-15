@@ -2,7 +2,6 @@
 
 <p>This is the Todolist Website made using Nodejs.</p>
 
-## Sample Video of WEBISTE  📽️:
 
 
 
